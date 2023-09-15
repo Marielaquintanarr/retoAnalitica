@@ -1,0 +1,29 @@
+Last login: Thu Sep 14 22:52:12 on ttys001
+mariela@MacBook-Pro-de-Agus-111 ~ %  nano ~/Downnloads/Mariela.txt 
+
+
+
+  UW PICO 5.09      File: /Users/mariela/Downnloads/Mariela.txt       Modified  
+
+Mariela Quintanar De la Mora A01642675
+Valeria Aispuro Gómez A01642923
+Alvaro Alejandro Cabañas Calvillo A01625742
+Elius Ivan González Campos A01620856
+Francisco Javier Romo Juárez A01643189
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help  ^O WriteOut  ^R Read File ^Y Prev Pg   ^K Cut Text  ^C Cur Pos   
+^X Exit      ^J Justify   ^W Where is  ^V Next Pg   ^U UnCut Text^T To Spell  
